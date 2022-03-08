@@ -3,7 +3,7 @@ All newbie works :)
 ---------------------------------------------------
 ---------------------------------------------------
 
-*STUDENT DBM*
+*STUDENT DBM*\n
 cpp project
 Mini-project that can store and manipulate data in files.
 
