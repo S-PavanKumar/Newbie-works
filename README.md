@@ -4,7 +4,7 @@ All newbie works :)
 ---------------------------------------------------
 
 *STUDENT DBM*
-cpp project
+cpp 
 Mini-project that can store and manipulate data in files.
 
 -----------------------------------------------------
