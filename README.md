@@ -1,11 +1,5 @@
-# Newbie-works
-All newbie works :)
+# Student DBM
+Cpp mini-project
 ---------------------------------------------------
----------------------------------------------------
-
 *STUDENT DBM*
 cpp 
-Mini-project that can store and manipulate data in files.
-
------------------------------------------------------
------------------------------------------------------
